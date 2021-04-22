@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <nav class="nav-main">
+      <ul>
+        <li class="logo"><a class="hvr-ripple-out" href="{{ site.baseurl }}/"> English </a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/spanish/">Spanish</a></li>
+        <!-- <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/blog/">blog</a></li> -->
+      </ul>
+    </nav>
+
+    <div class="container content">
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        <small>
+            <span class="copyright"><i class="fa fa-copyright"></i> <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}</span> &middot;
+            <span>Brooklyn Radio Dispatcher Inc. <a href="http://.com/"></a></span>
+        </small>
+        <div class="ftr-links">
+          <a href="https://"><i class="fa fa-envelope-o"></i></a>
+          <a href="https://wa.me/12122282828"><i class="fa fa-whatsapp"></i></a>
+        </div>
+      </footer>
+    </div>
+
+  </body>
+</html>
