@@ -1,6 +1,6 @@
 title:               Driver Fees
 url:                 https://
-baseurl:             "base-fee"
+baseurl:             "/base-fee"
 
 markdown:            kramdown
 highlighter:         rouge
