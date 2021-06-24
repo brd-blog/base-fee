@@ -14,7 +14,7 @@ title: Monday through Friday peak hour promo starting Thursday, June 24, 2021
   Peak hour rates apply from 3:00 PM to 6:00 PM south of 100th St in Manhattan NY. For Non Emergency Medical Transportation (NEMT) rides from and to Manhattan, NY.
 </p>
 
-* $25.00 dollars an hour plus the ride fare. The rate applies from the moment you press pick-up through the Limosys app. This promotion only applies for account 200 Medical Answering Service (MAS) rides.
+* $25.00 dollars an hour plus the ride fare. The time is paid based on google's estimated time. This promotion only applies for account 200 Medical Answering Service (MAS) rides.
 
 
 Thanks for reading!
