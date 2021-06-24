@@ -3,7 +3,7 @@ layout: page
 title: Promoción de horas pico de Lunes a Viernes a partir del Jueves 24 de Junio del 2021
 ---
 <br>
-![logo]({{site.baseurl}}/images/promocion3-6.png)
+![promo]({{site.baseurl}}/images/promocion.png)
 <br>
 <div class="text-center">
   <button type="button" class="btn btn-primary btn-lg"><a href="{{ site.baseurl }}/promo/">PEAK HOUR PROMO</a></button>
