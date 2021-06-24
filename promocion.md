@@ -13,6 +13,6 @@ title: Promoción de horas pico de Lunes a Viernes a partir del Jueves 24 de Jun
   Las tarifas en horas pico se aplican de 3:00 PM a 6:00 PM al sur de la 100th St en Manhattan NY. Para transporte médico (NEMT) desde y hacia Manhattan, NY.
 </p>
 
-* $25.00 dólares la hora más la tarifa del viaje. El tiempo se paga según el tiempo estimado de Google. Esta promoción solo aplica para viajes de la cuenta 200 Medical Answering Service (MAS).
+> $25.00 dólares la hora más la tarifa del viaje. El tiempo se paga según el tiempo estimado de Google. Esta promoción solo aplica para viajes de la cuenta 200 Medical Answering Service (MAS).
 
-¡Gracias por leer!
+**¡Gracias por leer!**
