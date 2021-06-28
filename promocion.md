@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Promoción de horas pico de Lunes a Viernes a partir del Jueves 24 de Junio del 2021
+title: Promoción <i class="fa fa-percent" style="font-size:24px"></i> de Lunes a Viernes
 ---
 <br>
 ![promo]({{site.baseurl}}/images/promocion.png)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monday through Friday peak hour promo starting Thursday, June 24, 2021
+title: Monday through Friday Promo <i class="fa fa-percent" style="font-size:24px"></i>
 ---
 <br>
 ![logo]({{site.baseurl}}/images/promo3-6.png)
@@ -15,6 +15,5 @@ title: Monday through Friday peak hour promo starting Thursday, June 24, 2021
 </p>
 
 > $25.00 dollars an hour plus the ride fare. The time is paid based on Google's estimated time. This promotion only applies for account 200 Medical Answering Service (MAS) rides.
-
 
 **Thanks for reading!**
